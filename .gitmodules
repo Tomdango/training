@@ -1,0 +1,8 @@
+[submodule "training"]
+	path = training
+	url = git@github.com:Tomdango/training.git
+	branch = main
+[submodule "training-ui"]
+	path = training-ui
+	url = git@github.com:Tomdango/training-ui.git
+	branch = main
